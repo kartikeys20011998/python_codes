@@ -20,6 +20,7 @@ def compare(x,y,z):
 a=int(input("ENTER FIRST NUMBER"))
 b=int(input("ENTER SECOND NUMBER"))
 c=int(input("ENTER THIRD NUMBER"))
+print("Value of a,b,c is ",a,b,c)
 compare(a,b,c);
 
 	
